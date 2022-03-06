@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Junior in Computer Science at Purdue University.
+
+- I'm currently working on a super secret personal project.
+- I'm currently learning about GraphQL
+
+#### Contact Me
+- [LinkedIn](https://linkedin.com/in/nathan-stern)
