@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Junior in Computer Science at Purdue University.
+I'm a Senior in Computer Science at Purdue University.
 
 - I'm currently working on a super secret personal project.
 - I'm currently learning about GraphQL
